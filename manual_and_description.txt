@@ -1,1 +1,54 @@
-Instructions and descriptions will appear soon.
+CRClanStats 1.0
+Made by t0efL.
+
+This app is created for the community game Clash Royale.
+
+You can use it to collect statistics for the entire clan as a whole,
+as well as for individual players.
+The word statistics refers to the statistics of the clan in wars.
+The user is required to save data in time,
+after which they can access statistics at any time.
+This can help the leader of the clan decide who should be promoted,
+and who should be demoted or kicked out.
+
+In this application, which creates a simulation of your clan, you can:
+1)Add new Member;
+2)Remove member;
+3)Save War results; 
+4)Get information about the selected member; 
+5)Get average data about the entire clan; 
+6)Get members list; 
+7)Change last war results; 
+8)Save changes;
+9)Reset Data; 
+10)Change the saved clan name. 
+
+All these functions and some others are presented
+in the main menu of the app.
+By selecting any of the items 
+you will be explicitly told what to do next.
+To go to the menu during the execution of any of the items,
+enter "menu" in the input bar.
+
+The user is required to tell the app only the result 
+of the day of war and the day of collection for each player.
+Based on this data, the following indicators can be calculated 
+for each player or for the entire clan as a whole(average):
+1)Wars played;
+2)Wins;
+3)Loses;
+4)Average Cards on Collection day;
+5)Win Rate;
+6)Longest win streak;
+7)Current win streak;
+8)Current loss streak;
+9)Last results.
+
+To save all the data you entered for future use,
+use the "Save changes" option in the menu before closing the program.
+If you select "Quit" in the menu without saving the data first,
+the program will remind you of this.
+
+Links:
+https://github.com/t0efL
+https://github.com/t0efL/CRClanStats
