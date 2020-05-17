@@ -47,7 +47,6 @@ use the "Save changes" option in the menu before closing the program.
 If you select "Quit" in the menu without saving the data first,
 the program will remind you of this.
 
-To run this program, make sure that you have Python 3 installed on your computer, as well as a framework for it called NumPy. The latter can be set by entering the following text in the command line:
-!pip install numpy
+To run this program, make sure that you have Python 3 installed on your computer, as well as a framework for it called NumPy. 
 
 Then you can run the file main.py and start using the app.
