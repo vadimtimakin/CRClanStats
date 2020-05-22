@@ -29,7 +29,8 @@ To go to the menu during the execution of any of the items,
 enter "menu" in the input bar.
 
 The user is required to tell the app only the result 
-of the day of war and the day of collection for each player.
+of the day of war and the day of collection for each player 
+and don't forget to remove the players from the list and add new ones in time.
 Based on this data, the following indicators can be calculated 
 for each player or for the entire clan as a whole(average):
 * Wars played;
